@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1062587768478",
+    "firebase_url": "https://gpstollgatesystem-default-rtdb.firebaseio.com",
+    "project_id": "gpstollgatesystem",
+    "storage_bucket": "gpstollgatesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062587768478:android:f4bec2160753c39663258f",
+        "android_client_info": {
+          "package_name": "com.company.gpstollgaetsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9LOJ71nkujEk16uwFMpJGjWXj5bXw3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

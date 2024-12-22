@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021502003286",
+    "firebase_url": "https://alertsafety-f7808-default-rtdb.firebaseio.com",
+    "project_id": "alertsafety-f7808",
+    "storage_bucket": "alertsafety-f7808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021502003286:android:e54d12965761d7050c83f7",
+        "android_client_info": {
+          "package_name": "com.example.gps_toll_gate_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGS5GMt5egosAUmid7LTNV0wTaH5yOMEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
